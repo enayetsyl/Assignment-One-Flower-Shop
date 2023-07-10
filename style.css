@@ -196,22 +196,23 @@ p {
     margin-top: 128px;
     background-image: url(./Rectangle\ 9.png);
     margin-bottom: 128px;
-    height: 400px;
+    height: 450px;
 }
 .get-content{
     text-align: center;
 }
 .get-content h3{
-padding-top: 100px;
+padding-top: 120px;
 }
 .get-content p{
-padding: 24px 0;
+padding: 24px 0 48px 0;
 }
 .get-content input{
-    width: 500px;
+    width: 650px;
     height: 10px;
-    padding: 20px 40px;
-    border-radius: 10px;
+    padding: 22px;
+    border-radius: 8px;
+    margin-right: 16px;
 }
 
 
@@ -224,13 +225,18 @@ padding: 24px 0;
     color: white;
     
 }
-.foot-back p{
-    padding: 24px 0;
+.ft{
+    padding: 24px 0px 32px;
+    color: rgba(255, 255, 255, 0.90);
+}
+
+.fb{
+    color: rgba(255, 255, 255, 0.40);
 }
 
 .padd{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 128px;
+    padding-bottom: 128px;
 }
 
 
